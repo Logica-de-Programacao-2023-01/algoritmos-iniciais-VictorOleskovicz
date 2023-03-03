@@ -1,0 +1,9 @@
+Algoritmo de soma de dois números: um algoritmo simples que pede dois números como entrada e retorna a soma desses dois números.
+
+Primeiro número inteiro = x
+Segundo número inteiro = y
+Soma dos inteiros = z
+x + y = z
+Inserir x
+Inserir y
+Imprimir z
