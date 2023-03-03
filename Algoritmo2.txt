@@ -1,2 +1,17 @@
 Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
-
+2
+​
+3
+​Adquira a temperatura do local
+Temperatura ambiente = x
+Temperatura em célcius = C
+Temperatura em Fahreinheit = F 
+Inserir temperatura
+Se a temperatura estiver em C, seguir os passos a seguir
+    Multiplicar C por 9/5
+    Adicionar 32 ao resultado
+    Resultado após edição = F
+    Imprimir F
+Se a temperatura estiver em F, inserir F na formula a seguir
+    C = (F - 32) x 5/9
+    Imprimir C
